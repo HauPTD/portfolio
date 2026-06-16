@@ -63,9 +63,14 @@
 .header .logo-name {
   font-family: "Dancing Script", cursive;
   font-weight: 700;
+  color: #000000;
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
   padding: 0 10px;
+}
+
+.dark-menu .logo-name {
+  color: $textColorDark;
 }
 
 /* menu */
