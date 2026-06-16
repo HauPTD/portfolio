@@ -2,6 +2,10 @@ import React from "react";
 import "./AchievementCard.scss";
 
 export default function AchievementCard({cardInfo, isDark}) {
+  function getImageSource(image) {
+    return image && image.default ? image.default : image;
+  }
+
   function openUrlInNewTab(url, name) {
     if (!url) {
       console.log(`URL for ${name} not found`);
@@ -15,7 +19,7 @@ export default function AchievementCard({cardInfo, isDark}) {
     <div className={isDark ? "dark-mode certificate-card" : "certificate-card"}>
       <div className="certificate-image-div">
         <img
-          src={cardInfo.image}
+          src={getImageSource(cardInfo.image)}
           alt={cardInfo.imageAlt || "Card Thumbnail"}
           className="card-image"
         ></img>
@@ -28,8 +32,9 @@ export default function AchievementCard({cardInfo, isDark}) {
           {cardInfo.description}
         </p>
       </div>
-      <div className="certificate-card-footer">
-        {cardInfo.footer.map((v, i) => {
+      {cardInfo.footer && cardInfo.footer.length > 0 && (
+        <div className="certificate-card-footer">
+          {cardInfo.footer.map((v, i) => {
           return (
             <span
               key={i}
@@ -41,8 +46,9 @@ export default function AchievementCard({cardInfo, isDark}) {
               {v.name}
             </span>
           );
-        })}
-      </div>
+          })}
+        </div>
+      )}
     </div>
   );
 }

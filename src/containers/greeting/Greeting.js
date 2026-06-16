@@ -11,6 +11,11 @@ import StyleContext from "../../contexts/StyleContext";
 
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
+  const profileImage =
+    greeting.profileImage && greeting.profileImage.default
+      ? greeting.profileImage.default
+      : greeting.profileImage;
+
   if (!greeting.displayGreeting) {
     return null;
   }
@@ -53,7 +58,11 @@ export default function Greeting() {
             </div>
           </div>
           <div className="greeting-image-div">
-            {illustration.animated ? (
+            {profileImage ? (
+              <div className={isDark ? "profile-photo-card dark-profile-photo-card" : "profile-photo-card"}>
+                <img src={profileImage} alt="Đỗ Trần Phúc Hậu portrait" />
+              </div>
+            ) : illustration.animated ? (
               <DisplayLottie animationData={landingPerson} />
             ) : (
               <img

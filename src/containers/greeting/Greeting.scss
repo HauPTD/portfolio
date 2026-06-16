@@ -58,6 +58,31 @@
   height: auto;
 }
 
+.profile-photo-card {
+  position: relative;
+  width: min(420px, 82%);
+  margin: 0 auto;
+  padding: 18px;
+  border: 1px solid $lightBorder1;
+  border-radius: 28px;
+  background: $lightBackground2;
+  box-shadow: $lightBoxShadowDark 0px 20px 50px -22px;
+}
+
+.dark-profile-photo-card {
+  background: $darkBackground;
+  box-shadow: 0px 20px 50px -22px $darkBoxShadow;
+}
+
+.profile-photo-card img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 22px;
+  display: block;
+}
+
+
 .wave-emoji {
   animation-duration: 1.8s;
   animation-iteration-count: infinite;
@@ -116,7 +141,17 @@
     display: block;
   }
   .greeting-image-div {
-    height: 256px;
+    min-height: 256px;
+    height: auto;
+  }
+  .profile-photo-card {
+    width: min(330px, 92%);
+    margin-top: 28px;
+    padding: 12px;
+    border-radius: 22px;
+  }
+  .profile-photo-card img {
+    border-radius: 17px;
   }
 }
 

@@ -1,0 +1,20 @@
+<svg width="520" height="360" viewBox="0 0 520 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="360" rx="28" fill="#F7F2EB"/>
+  <rect x="58" y="66" width="150" height="116" rx="18" fill="#172026"/>
+  <rect x="78" y="90" width="82" height="12" rx="6" fill="#FFFFFF"/>
+  <rect x="78" y="120" width="108" height="10" rx="5" fill="#8DA1B5"/>
+  <rect x="78" y="146" width="72" height="10" rx="5" fill="#2DD4BF"/>
+  <text x="90" y="220" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">React UI</text>
+  <rect x="285" y="66" width="178" height="116" rx="18" fill="#E6F4F1" stroke="#B8DDD6"/>
+  <rect x="318" y="94" width="112" height="16" rx="8" fill="#167B79"/>
+  <rect x="318" y="130" width="78" height="10" rx="5" fill="#6D827F"/>
+  <rect x="318" y="154" width="96" height="10" rx="5" fill="#6D827F"/>
+  <text x="322" y="220" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">Express API</text>
+  <rect x="190" y="254" width="140" height="58" rx="18" fill="#172026"/>
+  <rect x="218" y="274" width="84" height="9" rx="4.5" fill="#2DD4BF"/>
+  <rect x="218" y="292" width="84" height="9" rx="4.5" fill="#2DD4BF" opacity="0.55"/>
+  <text x="198" y="340" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">MongoDB</text>
+  <path d="M208 124H285" stroke="#167B79" stroke-width="7" stroke-linecap="round"/>
+  <path d="M374 182C374 252 330 282 330 282" stroke="#C7792D" stroke-width="7" stroke-linecap="round"/>
+  <path d="M190 282C150 282 132 210 132 182" stroke="#315F8E" stroke-width="7" stroke-linecap="round"/>
+</svg>

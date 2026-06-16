@@ -1,0 +1,16 @@
+<svg width="520" height="360" viewBox="0 0 520 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="360" rx="28" fill="#F7F2EB"/>
+  <rect x="62" y="76" width="188" height="208" rx="22" fill="#172026"/>
+  <rect x="92" y="110" width="106" height="14" rx="7" fill="#FFFFFF"/>
+  <rect x="92" y="148" width="128" height="10" rx="5" fill="#8DA1B5"/>
+  <rect x="92" y="178" width="84" height="10" rx="5" fill="#8DA1B5"/>
+  <rect x="92" y="214" width="118" height="34" rx="12" fill="#167B79"/>
+  <text x="116" y="237" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900">RUN TEST</text>
+  <circle cx="344" cy="136" r="54" fill="#315F8E"/>
+  <circle cx="412" cy="192" r="38" fill="#C7792D"/>
+  <circle cx="342" cy="250" r="30" fill="#2F7D49"/>
+  <path d="M254 180C292 180 298 150 326 143" stroke="#167B79" stroke-width="7" stroke-linecap="round"/>
+  <path d="M254 220C310 220 334 204 374 196" stroke="#C7792D" stroke-width="7" stroke-linecap="round"/>
+  <path d="M254 248C288 248 304 250 312 250" stroke="#2F7D49" stroke-width="7" stroke-linecap="round"/>
+  <text x="78" y="330" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="900">AI-assisted testing</text>
+</svg>

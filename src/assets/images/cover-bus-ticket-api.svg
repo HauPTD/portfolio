@@ -1,0 +1,30 @@
+<svg width="960" height="560" viewBox="0 0 960 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="560" rx="28" fill="#172026"/>
+  <rect x="56" y="54" width="848" height="452" rx="24" fill="#FFF8EC"/>
+  <rect x="92" y="92" width="278" height="84" rx="18" fill="#1F2933"/>
+  <text x="124" y="128" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Bus Ticket API</text>
+  <text x="124" y="154" fill="#A7B3BE" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Express + MongoDB backend</text>
+  <rect x="92" y="216" width="180" height="54" rx="14" fill="#E6F4F1"/>
+  <rect x="92" y="296" width="180" height="54" rx="14" fill="#E6F4F1"/>
+  <rect x="92" y="376" width="180" height="54" rx="14" fill="#E6F4F1"/>
+  <text x="124" y="249" fill="#167B79" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Routes</text>
+  <text x="124" y="329" fill="#167B79" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Trips</text>
+  <text x="124" y="409" fill="#167B79" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Seats</text>
+  <rect x="390" y="166" width="210" height="228" rx="22" fill="#F4E9D9" stroke="#D9C9B5"/>
+  <rect x="424" y="204" width="142" height="20" rx="10" fill="#172026"/>
+  <rect x="424" y="244" width="104" height="12" rx="6" fill="#7A8791"/>
+  <rect x="424" y="278" width="124" height="12" rx="6" fill="#7A8791"/>
+  <rect x="424" y="312" width="88" height="12" rx="6" fill="#7A8791"/>
+  <rect x="424" y="346" width="116" height="12" rx="6" fill="#7A8791"/>
+  <text x="424" y="154" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Booking Flow</text>
+  <rect x="696" y="104" width="132" height="132" rx="22" fill="#172026"/>
+  <circle cx="762" cy="170" r="40" fill="#F59E0B"/>
+  <path d="M742 170H782M762 150V190" stroke="#172026" stroke-width="10" stroke-linecap="round"/>
+  <rect x="672" y="298" width="180" height="72" rx="18" fill="#EAF4FF"/>
+  <text x="712" y="340" fill="#315F8E" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Payment</text>
+  <rect x="672" y="400" width="180" height="72" rx="18" fill="#E9F8EF"/>
+  <text x="718" y="442" fill="#2F7D49" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Tickets</text>
+  <path d="M272 243H390M272 323H390M272 403C326 403 326 394 390 394" stroke="#167B79" stroke-width="5" stroke-linecap="round"/>
+  <path d="M600 280C640 280 640 170 696 170M600 314C646 314 646 334 672 334M600 350C646 350 646 436 672 436" stroke="#C7792D" stroke-width="5" stroke-linecap="round"/>
+  <text x="92" y="488" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900">Swagger-ready backend case study</text>
+</svg>

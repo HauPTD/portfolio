@@ -1,0 +1,40 @@
+<svg width="960" height="560" viewBox="0 0 960 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="560" rx="28" fill="#10201F"/>
+  <rect x="46" y="42" width="868" height="476" rx="24" fill="#F7F2EB"/>
+  <rect x="80" y="78" width="800" height="96" rx="20" fill="#172626"/>
+  <text x="116" y="122" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900">Second Hand EV Platform API</text>
+  <text x="116" y="150" fill="#9FB4AF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Marketplace backend • Auth • Listings • Auctions • Wallet • Payments</text>
+  <rect x="118" y="226" width="252" height="178" rx="22" fill="#FFFFFF" stroke="#D9CFC1"/>
+  <path d="M170 315C186 274 220 254 266 254C312 254 346 278 356 315H170Z" fill="#167B79"/>
+  <circle cx="202" cy="328" r="24" fill="#172626"/>
+  <circle cx="322" cy="328" r="24" fill="#172626"/>
+  <circle cx="202" cy="328" r="10" fill="#F7F2EB"/>
+  <circle cx="322" cy="328" r="10" fill="#F7F2EB"/>
+  <rect x="238" y="230" width="62" height="42" rx="14" fill="#BFEFE6"/>
+  <path d="M270 238L252 266H271L260 292L289 255H270L282 238H270Z" fill="#167B79"/>
+  <text x="148" y="380" fill="#172626" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900">EV Listings</text>
+  <rect x="438" y="218" width="190" height="208" rx="22" fill="#172626"/>
+  <rect x="466" y="248" width="134" height="20" rx="10" fill="#F7F2EB"/>
+  <rect x="466" y="292" width="96" height="12" rx="6" fill="#91A39F"/>
+  <rect x="466" y="326" width="124" height="12" rx="6" fill="#91A39F"/>
+  <rect x="466" y="360" width="80" height="12" rx="6" fill="#91A39F"/>
+  <rect x="466" y="392" width="104" height="12" rx="6" fill="#2DD4BF"/>
+  <text x="450" y="198" fill="#172626" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900">REST API</text>
+  <rect x="706" y="220" width="112" height="166" rx="20" fill="#253737"/>
+  <rect x="725" y="248" width="74" height="16" rx="8" fill="#2DD4BF"/>
+  <rect x="725" y="282" width="74" height="16" rx="8" fill="#2DD4BF" opacity="0.76"/>
+  <rect x="725" y="316" width="74" height="16" rx="8" fill="#2DD4BF" opacity="0.54"/>
+  <rect x="725" y="350" width="74" height="16" rx="8" fill="#2DD4BF" opacity="0.34"/>
+  <circle cx="762" cy="204" r="26" fill="#C7792D"/>
+  <path d="M754 204H770M762 196V212" stroke="#172626" stroke-width="6" stroke-linecap="round"/>
+  <text x="700" y="420" fill="#172626" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900">Wallet</text>
+  <path d="M370 315H438M628 315H706" stroke="#167B79" stroke-width="6" stroke-linecap="round"/>
+  <path d="M660 315C660 268 674 236 720 204" stroke="#C7792D" stroke-width="5" stroke-linecap="round"/>
+  <rect x="118" y="442" width="700" height="34" rx="17" fill="#E8DED1"/>
+  <rect x="146" y="453" width="84" height="12" rx="6" fill="#167B79"/>
+  <rect x="254" y="453" width="92" height="12" rx="6" fill="#315F8E"/>
+  <rect x="370" y="453" width="80" height="12" rx="6" fill="#C7792D"/>
+  <rect x="474" y="453" width="118" height="12" rx="6" fill="#2F7D49"/>
+  <rect x="616" y="453" width="146" height="12" rx="6" fill="#172626"/>
+  <text x="118" y="508" fill="#172626" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900">Swagger-documented marketplace backend case study</text>
+</svg>

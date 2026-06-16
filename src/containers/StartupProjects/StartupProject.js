@@ -5,6 +5,10 @@ import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function StartupProject() {
+  function getImageSource(image) {
+    return image && image.default ? image.default : image;
+  }
+
   function openUrlInNewTab(url) {
     if (!url) {
       return;
@@ -46,7 +50,7 @@ export default function StartupProject() {
                   {project.image ? (
                     <div className="project-image">
                       <img
-                        src={project.image}
+                        src={getImageSource(project.image)}
                         alt={project.projectName}
                         className="card-image"
                       ></img>

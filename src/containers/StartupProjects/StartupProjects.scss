@@ -2,8 +2,10 @@
 
 .card-image {
   max-width: 100%;
-  height: auto;
-  width: 250px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
 }
 .card-title {
   color: $titleColor;
@@ -51,11 +53,13 @@
 }
 .project-image {
   position: relative;
-  height: 250px;
+  height: 230px;
   overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 8px;
+  background: $lightBackground3;
 }
 
 .projects-container {
