@@ -110,13 +110,15 @@ const workExperiences = {
   experience: [
     {
       role: "Fullstack Developer, Part-time",
-      company: "Startup Product Team",
-      companylogo: require("./assets/images/hau-hero-workspace.png"),
+      company: "Deedword & Mara OS",
+      companylogo: require("./assets/images/deedword-mara-experience.svg"),
+      bannerColor:
+        "linear-gradient(135deg, #111827 0%, #167b79 48%, #8b5cf6 100%)",
       date: "Nearly 1.5 years",
       desc:
-        "Contributed selected frontend and backend features for a React and Node.js platform, including admin dashboard modules, social connection flows, and automation workflows for publishing posts to social platforms.",
+        "Contributed selected frontend and backend features for Deedword and Mara OS, including admin dashboard modules, social connection flows, workspace tools, and automation workflows for publishing posts to social platforms.",
       descBullets: [
-        "Built admin dashboard screens and integrated them with REST APIs.",
+        "Built product dashboard screens and integrated them with REST APIs.",
         "Worked on friend request and connection acceptance flows.",
         "Developed backend API features using Express, TypeScript, and MongoDB.",
         "Contributed to automation features for posting to LinkedIn and Facebook."
