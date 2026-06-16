@@ -112,8 +112,6 @@ const workExperiences = {
       role: "Fullstack Developer, Part-time",
       company: "Deedword & Mara OS",
       companylogo: require("./assets/images/deedword-mara-experience.svg"),
-      bannerColor:
-        "linear-gradient(135deg, #111827 0%, #167b79 48%, #8b5cf6 100%)",
       date: "Nearly 1.5 years",
       desc:
         "Contributed selected frontend and backend features for Deedword and Mara OS, including admin dashboard modules, social connection flows, workspace tools, and automation workflows for publishing posts to social platforms.",
